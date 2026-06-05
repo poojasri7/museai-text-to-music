@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+generated_music.wav
+*.wav
+.DS_Store
